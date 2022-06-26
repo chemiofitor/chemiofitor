@@ -1,4 +1,4 @@
-### Hi there is Chemiofitor👋
+### Hi, this is Chemiofitor👋
 [![][bilibili-ima]][bilibili][![][mcmod-ima]][mcmod]![github]
 
 [![Chemiofitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=chemiofitor&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
